@@ -234,7 +234,7 @@ public class PlacementGUI extends JFrame {
                 DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_placement_management",
                     "root",
-                    "sathveera@07"
+                    "YOUR_MYSQL_PASSWORD"
                 );
 
                 Statement st =
@@ -332,7 +332,7 @@ public class PlacementGUI extends JFrame {
                 DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_placement_management",
                     "root",
-                    "sathveera@07"
+                    "YOUR_MYSQL_PASSWORD"
                 );
 
                 Statement st =
@@ -400,7 +400,7 @@ public class PlacementGUI extends JFrame {
                 DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_placement_management",
                     "root",
-                    "sathveera@07"
+                    "YOUR_MYSQL_PASSWORD"
                 );
 
                 Statement st =
@@ -471,7 +471,7 @@ public class PlacementGUI extends JFrame {
                 DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_placement_management",
                     "root",
-                    "sathveera@07"
+                    "YOUR_MYSQL_PASSWORD"
                 );
 
                 Statement st =
@@ -538,7 +538,7 @@ public class PlacementGUI extends JFrame {
                 DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_placement_management",
                     "root",
-                    "sathveera@07"
+                    "YOUR_MYSQL_PASSWORD"
                 );
 
                 Statement st =
@@ -585,7 +585,7 @@ public class PlacementGUI extends JFrame {
                 DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_placement_management",
                     "root",
-                    "sathveera@07"
+                    "YOUR_MYSQL_PASSWORD"
                 );
 
                 Statement st =
@@ -637,7 +637,7 @@ public class PlacementGUI extends JFrame {
                 DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/college_placement_management",
                     "root",
-                    "sathveera@07"
+                    "YOUR_MYSQL_PASSWORD"
                 );
 
                 Statement st =
@@ -703,7 +703,7 @@ public class PlacementGUI extends JFrame {
             DriverManager.getConnection(
                 "jdbc:mysql://localhost:3306/college_placement_management",
                 "root",
-                "sathveera@07"
+                "YOUR_MYSQL_PASSWORD"
             );
 
             Statement st =
